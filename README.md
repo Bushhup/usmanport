@@ -3,7 +3,7 @@
 # Junaid Portfolio Showcase 💻
 
 Welcome to **Junaid's Portfolio Showcase**!  
-A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
+A modern **portfolio website** designed to showcase skills, and personal work using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
 
 ---
@@ -17,8 +17,7 @@ You can view the live website here: [Live Demo](https://junaidmsport.netlify.app
 ## 🌟 Website Sections
 
 - **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
+- **About**: Experience, tech stack, personal insights, and skill cards    
 - **Services**: Highlighting services offered with interactive cards  
 - **Contact**: Contact form and social links with interactive hover effects  
 - **Footer**: Quick navigation links and social media links
