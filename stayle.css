@@ -129,7 +129,7 @@ header {
 .btn-home2 {
   background-color: transparent;
   text-decoration: none;
-  color:black;
+  color:black !important;
   border: 2px solid black;
   border-radius: 10px;
   padding: 10px 10px;
@@ -924,5 +924,6 @@ body {
     padding-top: 10px; /* small padding to ensure visual spacing */
   }
 }
+
 
 
